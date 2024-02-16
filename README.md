@@ -6,3 +6,6 @@ This repository is built step by step in the tutorial.
 this is some text is 
 this is some text
 this is some test
+all about android mobile  programming
+all about kotlin
+all  about AI and future 
